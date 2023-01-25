@@ -10,7 +10,8 @@
 body {
     display: flex;
     justify-content: center;
-    background-color: #15686e;
+    /*background-color: #15686e;*/
+    background-image: url(./assets/tranformao-negcios-digitais.jpg);
 }
 
 .odonto{
